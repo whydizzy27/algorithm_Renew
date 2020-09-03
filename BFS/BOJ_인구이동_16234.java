@@ -1,4 +1,4 @@
-package temp;
+package BFS;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -10,7 +10,6 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-import temp.BOJ_구슬탈출2_13460.Dot;
 
 public class BOJ_인구이동_16234 {
 	static int N,L,R, map[][],temp[][];
