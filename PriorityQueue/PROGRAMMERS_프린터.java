@@ -6,7 +6,7 @@ import java.util.*;
 class Solution {
    
     public int solution(int[] priorities, int location) {
-        //결과물이 내림차순과 같음
+        // 결과물이 내림차순과 같음
         PriorityQueue<Integer> q = new PriorityQueue<>(Collections.reverseOrder());
         //우선순위 큐에 넣음
         for(int k : priorities){
