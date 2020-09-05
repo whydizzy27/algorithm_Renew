@@ -10,6 +10,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+//2020 09 05
 public class BOJ_다리만들기_2146 {
 	static int map[][],N;
 	static boolean visited[][];
